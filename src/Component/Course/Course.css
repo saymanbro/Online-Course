@@ -1,0 +1,12 @@
+.course-style{
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 950px;
+    background-color: #c54189;
+    color: #00101f;
+    box-shadow: 4px 4px 10px gray;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
